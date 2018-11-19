@@ -1,5 +1,5 @@
 # Tidal Tails
-Soon to be complete algorithm to detect the presence of open cluster tidal tails in the Milky Way
+Soon to be complete algorithm to detect the presence of tidal tails extended from open clusters within the Milky Way
 
 The main project is the "Hyatails" notebook
 
