@@ -3,7 +3,7 @@ Soon to be complete algorithm to detect the presence of tidal tails extended fro
 
 The main project is the "Hyades Tidal Tails" notebook.
 
-# README soon to be updated with outline of code/analysis
+# Outline of the analysis and code will be completed within the next week.
 
 
 
